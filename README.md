@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hi, I'm Jincheng Ma, a Fullstack Developer and a Data Analyst📚.
+## Hi, I'm Jincheng Ma, a Fullstack Developer📚.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
