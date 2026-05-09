@@ -2,10 +2,10 @@
 
 # Jincheng Ma
 
-### Software Development Engineer in Test II @ TikTok
+### Software Engineer in Test @ TikTok | Test Automation | CI/CD | Quality Infrastructure
 
 [![Github](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jma49)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jincheng-ma-iit/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jincheng-ma-tiktok/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:majincheng990128@gmail.com)
 
 </div>
@@ -14,22 +14,34 @@
 
 ## Professional Overview
 
-I am a Software Development Engineer in Test II at TikTok, specializing in test automation, quality assurance, and ensuring the reliability of large-scale systems. I bring analytical thinking and systematic problem-solving skills to software testing and quality engineering.
+I am a Software Engineer in Test at TikTok, focusing on automation infrastructure, CI/CD quality gates, backend service validation, and production reliability for large-scale Trust & Safety systems.
 
-### Core Competencies
+My work covers scalable automation frameworks, API and integration testing, Linux-based test environments, production quality metrics, and cross-functional release support. I also build internal tools and AI-assisted automation workflows to improve developer productivity and test efficiency.
 
-**Quality Engineering & Testing**
+---
 
-- Test automation framework design and implementation
-- CI/CD pipeline integration and testing infrastructure
-- Performance testing and system reliability validation
-- API testing and microservices quality assurance
+## Core Competencies
 
-**Technical Leadership**
+**Test Automation & Quality Infrastructure**
 
-- Cross-functional collaboration on high-impact TikTok features
-- Modern testing methodologies and best practices
-- Continuous improvement of testing processes and tools
+- Scalable automation framework design using Python, Go, JavaScript, and TypeScript
+- API, integration, smoke, regression, and E2E test coverage
+- CI/CD quality gates and release-blocking validation
+- Linux-based test environments and Android automation workflows
+
+**Reliability & Production Quality**
+
+- Production metrics analysis, on-call trend review, and incident follow-up
+- Service reliability validation for backend workflows and distributed systems
+- Root cause analysis and action item tracking for high-priority issues
+- Cross-region and multi-system release risk reduction
+
+**Developer Productivity**
+
+- Testing pyramid design and CI feedback quality improvement
+- Internal quality tools for data validation and workflow inspection
+- AI-assisted automation using agent-based workflows and Model Context Protocol (MCP)
+- Cross-functional collaboration with engineering, product, and operations teams
 
 ---
 
@@ -39,40 +51,54 @@ I am a Software Development Engineer in Test II at TikTok, specializing in test 
 
 ### Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Testing & QA Tools
+### Testing & Automation
 
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-DC382D?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Automation-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Frameworks & Platforms
+### Backend & Infrastructure
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Infrastructure & DevOps
+### Cloud & DevOps
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Databases & Message Queues
+### Databases & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
+
+---
+
+## Current Focus
+
+- Building scalable automation frameworks for backend and E2E validation
+- Improving CI/CD quality gates and release confidence
+- Using production metrics and test signals to reduce reliability risk
+- Applying AI-assisted workflows to improve automation efficiency
+- Expanding Linux and Android automation coverage
 
 ---
 
@@ -94,10 +120,7 @@ I am a Software Development Engineer in Test II at TikTok, specializing in test 
 
 **Open to discussing:**
 
-- Test Automation Strategies
-- Quality Engineering Best Practices
-- CI/CD Pipeline Optimization
-- Technical Leadership in QA
+Test automation, quality engineering, CI/CD quality gates, developer productivity, backend reliability, Linux-based test environments, and Android automation.
 
 [![Profile Views](https://views.whatilearened.today/views/github/jma49/jma49.svg)](https://github.com/jma49)
 
